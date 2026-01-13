@@ -3,7 +3,7 @@
 This repository contains the code, models, and benchmarks for the research paper:  
 **Real-Time Object Detection with Quantized YOLOv11 and YOLOv8 on Raspberry Pi 5 for Low-Speed ADAS**  
 Author: Furkan Şimşek (@FsimsekDev)  
-[Download Paper (PDF)](docs/article.pdf)
+[Download Paper (PDF)](article.pdf)
 
 ## Overview
 This study evaluates YOLOv11n/s and YOLOv8n/s models for CPU-only object detection in ADAS on Raspberry Pi 5. Key findings:
