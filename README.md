@@ -21,8 +21,3 @@ Tested on Raspberry Pi 5 (8GB, performance mode), trained on RTX 3050 Laptop GPU
   - onnx
   - onnxruntime
   - opencv-python
-
-## Usage
-### Training
-```bash
-python train.py --model yolov11n --dataset kitti --epochs 50 --batch 16
