@@ -15,7 +15,7 @@ Tested on Raspberry Pi 5 (8GB, performance mode), trained on RTX 3050 Laptop GPU
 
 ## Requirements
 - Python 3.8+
-- Install dependencies: `pip install -r requirements.txt`
+- Install dependencies:
   - ultralytics
   - torch
   - onnx
